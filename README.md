@@ -9,7 +9,10 @@ Recognized as a LinkedIn Top Voice in AI and Data Analytics, I have been the tec
 
 ## Education					       		
 - M.S., Computational Data Analytics	| Georgia Institute of Technology			       
-- B.Tech., Electrical Engineering | Indian Institute of Technology Madras
+- B.Tech., Electrical Engineering     | Indian Institute of Technology Madras
+
+## Mentorship
+I offer mentorship on topmate for data science projects—from proposal to deployment—ensuring best practices like code reviews, version control, CI/CD, and continuous training for high-quality, scalable outcomes. Take a look at my mentorship projects and openings below!
 
 ## Projects
 ### AI-Powered College Application Assist
